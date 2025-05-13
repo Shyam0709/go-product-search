@@ -84,7 +84,8 @@ Data is stored in-memory and not persisted.
 
 Example categories include: Electronics, Footwear, Home & Kitchen, Fitness, Books, Clothing
 
-📄 Decision Log
+📄 Decision Log https://docs.google.com/document/d/147Qe_ht3WqQK_xj79qbZWZZ2Mr3CNY8s0KcCHLcdks0/edit?usp=sharing
+
 See Google Doc Decision Log for detailed documentation on decisions, learning path, and challenges.
 
 👨‍💻 Author
