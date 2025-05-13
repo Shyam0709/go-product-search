@@ -24,15 +24,12 @@ Query parameter: q — the keyword to search for in product names
 
 Example:
 
-bash
-Copy
-Edit
+
 http://localhost:8080/search?q=Product
 Response:
 
 json
-Copy
-Edit
+
 [
   {
     "id": 1,
@@ -53,29 +50,21 @@ Prerequisite: Go 1.21+ installed
 
 Clone the repo
 
-bash
-Copy
-Edit
+
 git clone https://github.com/Shyam0709/go-product-search.git
 cd go-product-search
 Initialize Go modules
 
-bash
-Copy
-Edit
+
 go mod tidy
 Run the server
 
-bash
-Copy
-Edit
+
 go run main.go
 Test the API
 Use Postman or a browser to access:
 
-bash
-Copy
-Edit
+
 http://localhost:8080/search?q=Product
 💡 Notes
 Currently simulates 100,000 products for performance reasons. This can be increased as needed.
