@@ -26,6 +26,8 @@ Example:
 
 
 http://localhost:8080/search?q=Product
+
+
 Response:
 
 json
@@ -38,11 +40,18 @@ json
   },
   ...
 ]
+
+
 🛠️ Tech Stack
+
 Technology	Purpose
+
 Go	Backend language
+
 Chi	HTTP router
+
 Bleve	Full-text indexing and search
+
 Postman	API testing
 
 📦 Installation & Run Locally
@@ -79,4 +88,5 @@ See Google Doc Decision Log for detailed documentation on decisions, learning pa
 
 👨‍💻 Author
 Shyam Sundar
+
 GitHub: @Shyam0709
